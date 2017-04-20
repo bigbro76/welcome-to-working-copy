@@ -1,1 +1,0 @@
-working-copy://x-callback-url/webdav%3Fkey%3DPush%26cmd%3Dstart
